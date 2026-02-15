@@ -36,7 +36,8 @@ This project is just for learning purpose but not for real time medical use.
 6. Posture is classified as Good or Bad.
 7. Keypoints, spine line, and information panel are displayed.
 
-
+## Proves
+<img width="951" height="446" alt="Image" src="https://github.com/user-attachments/assets/9146afc9-0d78-45d3-ba8b-3f7bb6e81f50" />
 
 ## Author
 **Muhammad Sarmad Mumtaz**  
