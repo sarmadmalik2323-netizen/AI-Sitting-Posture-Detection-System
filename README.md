@@ -39,7 +39,15 @@ This project is just for learning purpose but not for real time medical use.
 ## Proves
 <img width="951" height="446" alt="Image" src="https://github.com/user-attachments/assets/9146afc9-0d78-45d3-ba8b-3f7bb6e81f50" />
 
-## Author
+<img width="945" height="446" alt="Image" src="https://github.com/user-attachments/assets/f2739142-bc10-4958-996c-ae4a13afd1e2" />
+
+<img width="954" height="449" alt="Image" src="https://github.com/user-attachments/assets/26eb0299-84d4-49ed-bcb8-c951911155f2" />
+
+<img width="960" height="444" alt="Image" src="https://github.com/user-attachments/assets/49d47099-76f2-4a2b-8aaf-6c439a3bacb6" />
+
+<img width="960" height="443" alt="Image" src="https://github.com/user-attachments/assets/e34c1cc1-5d53-457e-acde-a22043df553a" />
+
+## Developed by
 **Muhammad Sarmad Mumtaz**  
 BS Artificial Intelligence Student  
 
