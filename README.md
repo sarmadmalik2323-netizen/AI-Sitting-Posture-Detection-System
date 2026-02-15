@@ -6,6 +6,7 @@ It analyzes an uploaded image of a person sitting and predicts whether the postu
 
 The model does not have 100% accuracy, but it performs well in normal lighting and clear sitting positions.  
 This project demonstrates practical skills in **Computer Vision, Pose Estimation, and Image Processing**.
+This project is just for learning purpose but not for real time medical use.
 
 
 ## Features
