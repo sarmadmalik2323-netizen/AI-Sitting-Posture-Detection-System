@@ -35,6 +35,9 @@ This project demonstrates practical skills in **Computer Vision, Pose Estimation
 6. Posture is classified as Good or Bad.
 7. Keypoints, spine line, and information panel are displayed.
 
+## Author
+**Muhammad Sarmad Mumtaz**  
+BS Artificial Intelligence Student  
 
 ## Installation
 
@@ -44,7 +47,4 @@ pip install ultralytics opencv-python matplotlib numpy
 
 ---
 
-## Author
-**Muhammad Sarmad Mumtaz**  
-BS Artificial Intelligence Student  
 
