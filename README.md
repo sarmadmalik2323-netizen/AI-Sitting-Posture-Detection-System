@@ -36,12 +36,7 @@ This project is just for learning purpose but not for real time medical use.
 6. Posture is classified as Good or Bad.
 7. Keypoints, spine line, and information panel are displayed.
 
-## Proves
-https://github.com/sarmadmalik2323-netizen/AI-Sitting-Posture-Detection-System/blob/23e1dedc8b5df5452cafb93304d55601f43e15ad/Prove%201.PNG
-https://github.com/sarmadmalik2323-netizen/AI-Sitting-Posture-Detection-System/blob/23e1dedc8b5df5452cafb93304d55601f43e15ad/Prove%202.PNG
-https://github.com/sarmadmalik2323-netizen/AI-Sitting-Posture-Detection-System/blob/23e1dedc8b5df5452cafb93304d55601f43e15ad/Prove%203.PNG
-https://github.com/sarmadmalik2323-netizen/AI-Sitting-Posture-Detection-System/blob/23e1dedc8b5df5452cafb93304d55601f43e15ad/Prove%204.PNG
-https://github.com/sarmadmalik2323-netizen/AI-Sitting-Posture-Detection-System/blob/23e1dedc8b5df5452cafb93304d55601f43e15ad/Prove%205.PNG
+
 
 ## Author
 **Muhammad Sarmad Mumtaz**  
